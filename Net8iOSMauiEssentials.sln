@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net8iOSMauiEssentials", "Net8iOSMauiEssentials\Net8iOSMauiEssentials.csproj", "{470EB669-4D64-4B21-941D-D7CAB3CC35B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{3C3DABD5-6E74-439B-9C24-E3A964336061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470EB669-4D64-4B21-941D-D7CAB3CC35B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470EB669-4D64-4B21-941D-D7CAB3CC35B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470EB669-4D64-4B21-941D-D7CAB3CC35B4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{470EB669-4D64-4B21-941D-D7CAB3CC35B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470EB669-4D64-4B21-941D-D7CAB3CC35B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470EB669-4D64-4B21-941D-D7CAB3CC35B4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3C3DABD5-6E74-439B-9C24-E3A964336061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3DABD5-6E74-439B-9C24-E3A964336061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3DABD5-6E74-439B-9C24-E3A964336061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3DABD5-6E74-439B-9C24-E3A964336061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46E2EE04-0BF8-4729-91F3-93B8B236DD8E}
+	EndGlobalSection
+EndGlobal
